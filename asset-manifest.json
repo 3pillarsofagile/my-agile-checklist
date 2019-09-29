@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-agile-checklist/static/css/main.b100e6da.chunk.css",
+    "main.js": "/my-agile-checklist/static/js/main.50b4951a.chunk.js",
+    "main.js.map": "/my-agile-checklist/static/js/main.50b4951a.chunk.js.map",
+    "runtime-main.js": "/my-agile-checklist/static/js/runtime-main.9a301fda.js",
+    "runtime-main.js.map": "/my-agile-checklist/static/js/runtime-main.9a301fda.js.map",
+    "static/js/2.0aa5ea36.chunk.js": "/my-agile-checklist/static/js/2.0aa5ea36.chunk.js",
+    "static/js/2.0aa5ea36.chunk.js.map": "/my-agile-checklist/static/js/2.0aa5ea36.chunk.js.map",
+    "index.html": "/my-agile-checklist/index.html",
+    "precache-manifest.cda082f44a8546b92ffb5b399995ade0.js": "/my-agile-checklist/precache-manifest.cda082f44a8546b92ffb5b399995ade0.js",
+    "service-worker.js": "/my-agile-checklist/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/my-agile-checklist/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/my-agile-checklist/static/media/logo.25bf045c.svg"
+  }
+}
