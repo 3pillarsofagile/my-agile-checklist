@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/my-agile-checklist/precache-manifest.c61a4bbb72aaff058c1072f0ee0f30f6.js"
+  "/my-agile-checklist/precache-manifest.bb51e8b11469859a90c67e9367f65d6b.js"
 );
 
 self.addEventListener('message', (event) => {
